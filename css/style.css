@@ -1,0 +1,38 @@
+.conteiner {
+    max-width: 1440px;
+    width: 100%;
+    height: 50px;
+    padding: 11px 80px 11px 80px;
+    background-color: aqua;
+    margin: auto;
+
+
+}
+
+
+.main_header_h2 {
+    color: #FA793C;
+    font-family: Pridi;
+    font-size: 18px;
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FA793C;
+
+}
+
+.main_header_ul {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_header_li {
+    display: flex;
+    font-size: 16px;
+    width: 15%;
+    gap: 5px;
+
+}
